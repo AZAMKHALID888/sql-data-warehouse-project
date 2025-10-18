@@ -31,5 +31,4 @@ These deliverables arm stakeholders with vital KPIs, fueling smarter strategies 
 
 📄 License
 This project falls under the MIT License (LICENSE). Feel free to adapt, extend, or repurpose it – just give credit where it's due!
-📄 License
-This project falls under the MIT License (LICENSE). Feel free to adapt, extend, or repurpose it – just give credit where it's due!
+
