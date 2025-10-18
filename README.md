@@ -11,8 +11,8 @@ This project merges data engineering and analytics to transform raw sales inform
 🔧 Building the Data Warehouse (Data Engineering Focus)
 🎯 Goal
 Construct a scalable, modern data warehouse on SQL Server to unify sales records from multiple origins. This setup powers advanced reporting and supports data-driven choices for the business.
-📝 Key Specs
 
+📝 Key Specs
 Data Ingestion: Pull in datasets from ERP and CRM systems, delivered as CSV files, to kickstart the pipeline.
 Data Cleansing: Scrub and fix any inconsistencies or errors in the raw data before it hits the warehouse – quality first!
 Integration Layer: Fuse the two streams into one cohesive, intuitive data model tailored for efficient analytical queries.
@@ -22,7 +22,6 @@ Documentation: Include straightforward guides on the data model to make it acces
 📊 BI Analytics & Reporting (Data Analytics Focus)
 🎯 Goal
 Harness SQL queries to uncover granular details across three core areas:
-
 Customer Behavior: Dive into purchasing habits and engagement levels.
 Product Performance: Evaluate sales velocity, top performers, and underachievers.
 Sales Trends: Spot seasonal patterns, growth trajectories, and forecasting signals.
